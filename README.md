@@ -1,4 +1,5 @@
 # Project_wechat
+#### 关注公众号：琦度，获取更多数据分析的相关资源和学习经验
 #Some codings about Wechat
 ```python
 import itchat
